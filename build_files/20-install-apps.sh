@@ -12,6 +12,7 @@ dnf5 install -y \
     bcc \
     bpftop \
     bpftrace \
+    btop \
     flatpak-builder \
     ccache \
     nicstat \
